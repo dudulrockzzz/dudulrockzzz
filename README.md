@@ -1,3 +1,4 @@
+![logo](https://github.com/dudulrockzzz/dudulrockzzz/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Saswat Mohanty</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
